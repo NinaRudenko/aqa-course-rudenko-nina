@@ -1,2 +1,2 @@
-pgit ublic class Main {
+public class Main {
 }
